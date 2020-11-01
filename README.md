@@ -9,4 +9,5 @@
 - [CNN 1x1 conv](https://github.com/jjerry-k/tc_practice/blob/main/03_CNN_using_1x1.ipynb)
 - [RNN](https://github.com/jjerry-k/tc_practice/blob/main/04_RNN.ipynb)
 - [LSTM](https://github.com/jjerry-k/tc_practice/blob/main/05_LSTM.ipynb)
+- [GAN](https://github.com/jjerry-k/tc_practice/blob/main/08_GAN.ipynb)
 - [VAE](https://github.com/jjerry-k/tc_practice/blob/main/09_VAE.ipynb)
