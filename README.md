@@ -10,7 +10,7 @@
     - [MLP](https://github.com/jjerry-k/tc_practice/blob/main/01_MLP.ipynb)
 
 - 최적화(Optimization)
-    - [MLP](https://github.com/jjerry-k/tc_practice/blob/main/01_MLP.ipynb)
+    - [MLP](https://github.com/jjerry-k/tc_practice/blob/main/02_Optimizer.ipynb)
 
 - CNN(Convolutional Neural Network)
     - [CNN](https://github.com/jjerry-k/tc_practice/blob/main/03_CNN.ipynb)
