@@ -1,6 +1,6 @@
 # Deep Learning Basics
 --- 
-![img](fig/ai_tech.jpg)
+![img](figures/ai_tech.jpg)
 
 - 본 레포는 [부스트캠프 AI Tech](https://boostcamp.connect.or.kr) U Stage **Deep Learning Basics** 파트에 사용할 실습 자료 입니다!
 
